@@ -7,8 +7,8 @@
 
 ## 🌱 I'm currently learning
 
--   More JavaScript!
--   Material-UI
+-   Next.js
+-   Chakra UI
 
 ## 💼 Technical Skills
 
