@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-- 🔭 I’m a Software Developer @ [Filmhub](https://eloquentjavascript.net/) and [we're hiring!](https://filmhub.com/jobs)
+- 🔭 I’m a Software Developer @ [Filmhub](https://filmhub.com/) and [we're hiring!](https://filmhub.com/jobs)
 - 🐧 Full-time Linux user
 - 🎮 Gamer of open-world adventures
 - 🌱 Vegan
@@ -8,6 +8,7 @@
 ## 📚 I'm currently learning
 
 - Flutter
+- Dart
 
 ## 💼 Technical Skills
 
